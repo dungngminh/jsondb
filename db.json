@@ -413,48 +413,6 @@
           "Name":"Đậu que",
           "NameEn":null,
           "UrlRewrite":"dau-que"
-       },
-       {
-          "Id":299,
-          "Name":"Bắp non",
-          "NameEn":null,
-          "UrlRewrite":"bap-non"
-       },
-       {
-          "Id":379,
-          "Name":"Nấm linh chi trắng",
-          "NameEn":null,
-          "UrlRewrite":"nam-linh-chi-trang"
-       },
-       {
-          "Id":324,
-          "Name":"Ớt chuông",
-          "NameEn":null,
-          "UrlRewrite":"ot-chuong"
-       },
-       {
-          "Id":460,
-          "Name":"Bao tử heo",
-          "NameEn":null,
-          "UrlRewrite":"bao-tu-heo"
-       },
-       {
-          "Id":5614,
-          "Name":"Nước mía",
-          "NameEn":null,
-          "UrlRewrite":"nuoc-mia"
-       },
-       {
-          "Id":1562,
-          "Name":"Chuối chín",
-          "NameEn":"Chuối chín",
-          "UrlRewrite":"Chuoi-chin"
-       },
-       {
-          "Id":24,
-          "Name":"Sa tế",
-          "NameEn":null,
-          "UrlRewrite":"sa-te"
        }
     ]
  }
