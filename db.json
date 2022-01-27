@@ -1,180 +1,178 @@
 {
-    "materials": {
-        [
-            {
-                "Id": 1074,
-                "Name": "Nước nóng",
-                "NameEn": "Nước nóng",
-                "UrlRewrite": "nuoc-nong"
-            },
-            {
-                "Id": 15208,
-                "Name": "Tôm đất ",
-                "NameEn": "Tôm đất",
-                "UrlRewrite": "tom-dat"
-            },
-            {
-                "Id": 105,
-                "Name": "Thịt ba chỉ",
-                "NameEn": "Pork belly",
-                "UrlRewrite": "thit-ba-chi"
-            },
-            {
-                "Id": 355,
-                "Name": "Bánh tráng",
-                "NameEn": null,
-                "UrlRewrite": "banh-trang"
-            },
-            {
-                "Id": 537,
-                "Name": "Cơm",
-                "NameEn": "rice",
-                "UrlRewrite": "com"
-            },
-            {
-                "Id": 366,
-                "Name": "Tôm tươi",
-                "NameEn": "Fresh shrimp",
-                "UrlRewrite": "tom-tuoi"
-            },
-            {
-                "Id": 10,
-                "Name": "Ớt",
-                "NameEn": "Chilli",
-                "UrlRewrite": "ot"
-            },
-            {
-                "Id": 9,
-                "Name": "Tỏi",
-                "NameEn": "Garlic",
-                "UrlRewrite": "toi"
-            },
-            {
-                "Id": 10106,
-                "Name": "Tép đất",
-                "NameEn": "Tép đất",
-                "UrlRewrite": "Tép d?t"
-            },
-            {
-                "Id": 215,
-                "Name": "Nước cốt dừa",
-                "NameEn": null,
-                "UrlRewrite": "nuoc-cot-dua"
-            },
-            {
-                "Id": 359,
-                "Name": "Gà ác",
-                "NameEn": null,
-                "UrlRewrite": "ga-ac"
-            },
-            {
-                "Id": 94,
-                "Name": "Củ cải trắng",
-                "NameEn": "White radish",
-                "UrlRewrite": "cu-cai-trang"
-            },
-            {
-                "Id": 6,
-                "Name": "Nước mắm",
-                "NameEn": "Fish sauce",
-                "UrlRewrite": "nuoc-mam"
-            },
-            {
-                "Id": 520,
-                "Name": "Miến",
-                "NameEn": null,
-                "UrlRewrite": "mien"
-            },
-            {
-                "Id": 84,
-                "Name": "Kim chi cải thảo",
-                "NameEn": "Kimchi",
-                "UrlRewrite": "kim-chi-cai-thao"
-            },
-            {
-                "Id": 599,
-                "Name": "Cá nục",
-                "NameEn": null,
-                "UrlRewrite": "ca-nuc"
-            },
-            {
-                "Id": 1,
-                "Name": "Đường trắng",
-                "NameEn": "Sugar",
-                "UrlRewrite": "duong-trang"
-            },
-            {
-                "Id": 274,
-                "Name": "Nước dừa",
-                "NameEn": null,
-                "UrlRewrite": "nuoc-dua"
-            },
-            {
-                "Id": 56,
-                "Name": "Hành tím",
-                "NameEn": null,
-                "UrlRewrite": "hanh-tim"
-            },
-            {
-                "Id": 258,
-                "Name": "Nui",
-                "NameEn": null,
-                "UrlRewrite": "nui"
-            },
-            {
-                "Id": 1077,
-                "Name": "Đường nâu",
-                "NameEn": "Brown sugar",
-                "UrlRewrite": "duong-nau"
-            },
-            {
-                "Id": 3194,
-                "Name": "Rượu whisky",
-                "NameEn": null,
-                "UrlRewrite": "ruou-whisky"
-            },
-            {
-                "Id": 224,
-                "Name": "Nước cốt chanh",
-                "NameEn": null,
-                "UrlRewrite": "nuoc-cot-chanh"
-            },
-            {
-                "Id": 113,
-                "Name": "Nấm đông cô",
-                "NameEn": null,
-                "UrlRewrite": "nam-dong-co"
-            },
-            {
-                "Id": 23296,
-                "Name": "Hạt nêm knorr nấm hương chay",
-                "NameEn": null,
-                "UrlRewrite": "hat-nem-knorr-nam-huong-chay"
-            },
-            {
-                "Id": 757,
-                "Name": "Su su",
-                "NameEn": "Chayote",
-                "UrlRewrite": "su-su"
-            },
-            {
-                "Id": 477,
-                "Name": "Củ dền",
-                "NameEn": null,
-                "UrlRewrite": "cu-den"
-            },
-            {
-                "Id": 1849,
-                "Name": "Nước lạnh",
-                "NameEn": "Nước lạnh",
-                "UrlRewrite": "Nu?c l?nh"
-            },
-            {
-                "Id": 192,
-                "Name": "Hẹ",
-                "NameEn": null,
-                "UrlRewrite": "he"
-            },
-        ]
-    }
-}
+    "materials":[
+       {
+          "Id":1074,
+          "Name":"Nước nóng",
+          "NameEn":"Nước nóng",
+          "UrlRewrite":"nuoc-nong"
+       },
+       {
+          "Id":15208,
+          "Name":"Tôm đất ",
+          "NameEn":"Tôm đất",
+          "UrlRewrite":"tom-dat"
+       },
+       {
+          "Id":105,
+          "Name":"Thịt ba chỉ",
+          "NameEn":"Pork belly",
+          "UrlRewrite":"thit-ba-chi"
+       },
+       {
+          "Id":355,
+          "Name":"Bánh tráng",
+          "NameEn":null,
+          "UrlRewrite":"banh-trang"
+       },
+       {
+          "Id":537,
+          "Name":"Cơm",
+          "NameEn":"rice",
+          "UrlRewrite":"com"
+       },
+       {
+          "Id":366,
+          "Name":"Tôm tươi",
+          "NameEn":"Fresh shrimp",
+          "UrlRewrite":"tom-tuoi"
+       },
+       {
+          "Id":10,
+          "Name":"Ớt",
+          "NameEn":"Chilli",
+          "UrlRewrite":"ot"
+       },
+       {
+          "Id":9,
+          "Name":"Tỏi",
+          "NameEn":"Garlic",
+          "UrlRewrite":"toi"
+       },
+       {
+          "Id":10106,
+          "Name":"Tép đất",
+          "NameEn":"Tép đất",
+          "UrlRewrite":"Tép d?t"
+       },
+       {
+          "Id":215,
+          "Name":"Nước cốt dừa",
+          "NameEn":null,
+          "UrlRewrite":"nuoc-cot-dua"
+       },
+       {
+          "Id":359,
+          "Name":"Gà ác",
+          "NameEn":null,
+          "UrlRewrite":"ga-ac"
+       },
+       {
+          "Id":94,
+          "Name":"Củ cải trắng",
+          "NameEn":"White radish",
+          "UrlRewrite":"cu-cai-trang"
+       },
+       {
+          "Id":6,
+          "Name":"Nước mắm",
+          "NameEn":"Fish sauce",
+          "UrlRewrite":"nuoc-mam"
+       },
+       {
+          "Id":520,
+          "Name":"Miến",
+          "NameEn":null,
+          "UrlRewrite":"mien"
+       },
+       {
+          "Id":84,
+          "Name":"Kim chi cải thảo",
+          "NameEn":"Kimchi",
+          "UrlRewrite":"kim-chi-cai-thao"
+       },
+       {
+          "Id":599,
+          "Name":"Cá nục",
+          "NameEn":null,
+          "UrlRewrite":"ca-nuc"
+       },
+       {
+          "Id":1,
+          "Name":"Đường trắng",
+          "NameEn":"Sugar",
+          "UrlRewrite":"duong-trang"
+       },
+       {
+          "Id":274,
+          "Name":"Nước dừa",
+          "NameEn":null,
+          "UrlRewrite":"nuoc-dua"
+       },
+       {
+          "Id":56,
+          "Name":"Hành tím",
+          "NameEn":null,
+          "UrlRewrite":"hanh-tim"
+       },
+       {
+          "Id":258,
+          "Name":"Nui",
+          "NameEn":null,
+          "UrlRewrite":"nui"
+       },
+       {
+          "Id":1077,
+          "Name":"Đường nâu",
+          "NameEn":"Brown sugar",
+          "UrlRewrite":"duong-nau"
+       },
+       {
+          "Id":3194,
+          "Name":"Rượu whisky",
+          "NameEn":null,
+          "UrlRewrite":"ruou-whisky"
+       },
+       {
+          "Id":224,
+          "Name":"Nước cốt chanh",
+          "NameEn":null,
+          "UrlRewrite":"nuoc-cot-chanh"
+       },
+       {
+          "Id":113,
+          "Name":"Nấm đông cô",
+          "NameEn":null,
+          "UrlRewrite":"nam-dong-co"
+       },
+       {
+          "Id":23296,
+          "Name":"Hạt nêm knorr nấm hương chay",
+          "NameEn":null,
+          "UrlRewrite":"hat-nem-knorr-nam-huong-chay"
+       },
+       {
+          "Id":757,
+          "Name":"Su su",
+          "NameEn":"Chayote",
+          "UrlRewrite":"su-su"
+       },
+       {
+          "Id":477,
+          "Name":"Củ dền",
+          "NameEn":null,
+          "UrlRewrite":"cu-den"
+       },
+       {
+          "Id":1849,
+          "Name":"Nước lạnh",
+          "NameEn":"Nước lạnh",
+          "UrlRewrite":"nuoc-lanh"
+       },
+       {
+          "Id":192,
+          "Name":"Hẹ",
+          "NameEn":null,
+          "UrlRewrite":"he"
+       }
+    ]
+ }
