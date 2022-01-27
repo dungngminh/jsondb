@@ -173,6 +173,288 @@
           "Name":"Hẹ",
           "NameEn":null,
           "UrlRewrite":"he"
+       },
+       {
+          "Id":67,
+          "Name":"Giá đỗ",
+          "NameEn":null,
+          "UrlRewrite":"gia-do"
+       },
+       {
+          "Id":309,
+          "Name":"Nấm đùi gà",
+          "NameEn":null,
+          "UrlRewrite":"nam-dui-ga"
+       },
+       {
+          "Id":199,
+          "Name":"Đậu hũ chiên",
+          "NameEn":null,
+          "UrlRewrite":"dau-hu-chien"
+       },
+       {
+          "Id":1516,
+          "Name":"Cơm nguội",
+          "NameEn":"Cơm nguội",
+          "UrlRewrite":"Com ngu?i"
+       },
+       {
+          "Id":19,
+          "Name":"Dầu ăn",
+          "NameEn":"Cooking oil",
+          "UrlRewrite":"dau-an"
+       },
+       {
+          "Id":2098,
+          "Name":"Tỏi phi",
+          "NameEn":"Tỏi phi",
+          "UrlRewrite":"toi-phi"
+       },
+       {
+          "Id":153,
+          "Name":"Bơ lạt ",
+          "NameEn":null,
+          "UrlRewrite":"bo-lat"
+       },
+       {
+          "Id":340,
+          "Name":"Vani ",
+          "NameEn":null,
+          "UrlRewrite":"vani"
+       },
+       {
+          "Id":583,
+          "Name":"Bột nở (baking powder)",
+          "NameEn":null,
+          "UrlRewrite":"bot-no-baking-powder"
+       },
+       {
+          "Id":2407,
+          "Name":"Khoai lang bí",
+          "NameEn":"Khoai lang bí",
+          "UrlRewrite":"khoai-lang-bi"
+       },
+       {
+          "Id":15889,
+          "Name":"Chùm ngây",
+          "NameEn":"Drumstick tree",
+          "UrlRewrite":"chum-ngay"
+       },
+       {
+          "Id":4984,
+          "Name":"Lòng đỏ trứng gà",
+          "NameEn":"Lòng đỏ trứng gà",
+          "UrlRewrite":"long-do-trung-ga"
+       },
+       {
+          "Id":333,
+          "Name":"Đu đủ",
+          "NameEn":null,
+          "UrlRewrite":"du-du"
+       },
+       {
+          "Id":500,
+          "Name":"Hoành thánh",
+          "NameEn":null,
+          "UrlRewrite":"hoanh-thanh"
+       },
+       {
+          "Id":155,
+          "Name":"Đậu xanh",
+          "NameEn":null,
+          "UrlRewrite":"dau-xanh"
+       },
+       {
+          "Id":61,
+          "Name":"Củ sắn",
+          "NameEn":null,
+          "UrlRewrite":"cu-san"
+       },
+       {
+          "Id":50,
+          "Name":"Nấm mèo",
+          "NameEn":null,
+          "UrlRewrite":"nam-meo"
+       },
+       {
+          "Id":71,
+          "Name":"Nấm bào ngư",
+          "NameEn":null,
+          "UrlRewrite":"nam-bao-ngu"
+       },
+       {
+          "Id":381,
+          "Name":"Bột chiên giòn",
+          "NameEn":null,
+          "UrlRewrite":"bot-chien-gion"
+       },
+       {
+          "Id":370,
+          "Name":"Rong biển khô",
+          "NameEn":null,
+          "UrlRewrite":"rong-bien-kho"
+       },
+       {
+          "Id":308,
+          "Name":"Nấm Linh Chi",
+          "NameEn":null,
+          "UrlRewrite":"nam-linh-chi"
+       },
+       {
+          "Id":270,
+          "Name":"Củ cải đỏ",
+          "NameEn":null,
+          "UrlRewrite":"cu-cai-do"
+       },
+       {
+          "Id":39,
+          "Name":"Đậu bắp",
+          "NameEn":null,
+          "UrlRewrite":"dau-bap"
+       },
+       {
+          "Id":292,
+          "Name":"Gừng băm",
+          "NameEn":null,
+          "UrlRewrite":"gung-bam"
+       },
+       {
+          "Id":25,
+          "Name":"Giấm",
+          "NameEn":"Vinegar",
+          "UrlRewrite":"giam"
+       },
+       {
+          "Id":63,
+          "Name":"Nấm rơm",
+          "NameEn":null,
+          "UrlRewrite":"nam-rom"
+       },
+       {
+          "Id":17043,
+          "Name":"Lá é",
+          "NameEn":null,
+          "UrlRewrite":"la-e"
+       },
+       {
+          "Id":54,
+          "Name":"Dưa leo",
+          "NameEn":"Cucumber",
+          "UrlRewrite":"dua-leo"
+       },
+       {
+          "Id":384,
+          "Name":"Chả lụa chay",
+          "NameEn":null,
+          "UrlRewrite":"cha-lua-chay"
+       },
+       {
+          "Id":59,
+          "Name":"Củ sen",
+          "NameEn":null,
+          "UrlRewrite":"cu-sen"
+       },
+       {
+          "Id":115,
+          "Name":"Mực",
+          "NameEn":"Squid",
+          "UrlRewrite":"muc"
+       },
+       {
+          "Id":425,
+          "Name":"Thanh cua",
+          "NameEn":null,
+          "UrlRewrite":"thanh-cua"
+       },
+       {
+          "Id":443,
+          "Name":"Pa tê",
+          "NameEn":"Pate",
+          "UrlRewrite":"pa-te"
+       },
+       {
+          "Id":654,
+          "Name":"Xúc xích heo",
+          "NameEn":null,
+          "UrlRewrite":"xuc-xich-heo"
+       },
+       {
+          "Id":1938,
+          "Name":"Cá basa phi lê",
+          "NameEn":"Cá basa phi lê",
+          "UrlRewrite":"Cá basa phi lê"
+       },
+       {
+          "Id":184,
+          "Name":"Gạo nếp",
+          "NameEn":"Sticky rice",
+          "UrlRewrite":"gao-nep"
+       },
+       {
+          "Id":562,
+          "Name":"Lá chuối",
+          "NameEn":null,
+          "UrlRewrite":"la-chuoi"
+       },
+       {
+          "Id":380,
+          "Name":"Nấm linh chi nâu",
+          "NameEn":null,
+          "UrlRewrite":"nam-linh-chi-nau"
+       },
+       {
+          "Id":574,
+          "Name":"Mì vắt ",
+          "NameEn":null,
+          "UrlRewrite":"mi-vat"
+       },
+       {
+          "Id":335,
+          "Name":"Đậu que",
+          "NameEn":null,
+          "UrlRewrite":"dau-que"
+       },
+       {
+          "Id":299,
+          "Name":"Bắp non",
+          "NameEn":null,
+          "UrlRewrite":"bap-non"
+       },
+       {
+          "Id":379,
+          "Name":"Nấm linh chi trắng",
+          "NameEn":null,
+          "UrlRewrite":"nam-linh-chi-trang"
+       },
+       {
+          "Id":324,
+          "Name":"Ớt chuông",
+          "NameEn":null,
+          "UrlRewrite":"ot-chuong"
+       },
+       {
+          "Id":460,
+          "Name":"Bao tử heo",
+          "NameEn":null,
+          "UrlRewrite":"bao-tu-heo"
+       },
+       {
+          "Id":5614,
+          "Name":"Nước mía",
+          "NameEn":null,
+          "UrlRewrite":"nuoc-mia"
+       },
+       {
+          "Id":1562,
+          "Name":"Chuối chín",
+          "NameEn":"Chuối chín",
+          "UrlRewrite":"Chuoi-chin"
+       },
+       {
+          "Id":24,
+          "Name":"Sa tế",
+          "NameEn":null,
+          "UrlRewrite":"sa-te"
        }
     ]
  }
