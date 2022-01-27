@@ -366,53 +366,5 @@
           "NameEn":null,
           "UrlRewrite":"thanh-cua"
        },
-       {
-          "Id":443,
-          "Name":"Pa tê",
-          "NameEn":"Pate",
-          "UrlRewrite":"pa-te"
-       },
-       {
-          "Id":654,
-          "Name":"Xúc xích heo",
-          "NameEn":null,
-          "UrlRewrite":"xuc-xich-heo"
-       },
-       {
-          "Id":1938,
-          "Name":"Cá basa phi lê",
-          "NameEn":"Cá basa phi lê",
-          "UrlRewrite":"Cá basa phi lê"
-       },
-       {
-          "Id":184,
-          "Name":"Gạo nếp",
-          "NameEn":"Sticky rice",
-          "UrlRewrite":"gao-nep"
-       },
-       {
-          "Id":562,
-          "Name":"Lá chuối",
-          "NameEn":null,
-          "UrlRewrite":"la-chuoi"
-       },
-       {
-          "Id":380,
-          "Name":"Nấm linh chi nâu",
-          "NameEn":null,
-          "UrlRewrite":"nam-linh-chi-nau"
-       },
-       {
-          "Id":574,
-          "Name":"Mì vắt ",
-          "NameEn":null,
-          "UrlRewrite":"mi-vat"
-       },
-       {
-          "Id":335,
-          "Name":"Đậu que",
-          "NameEn":null,
-          "UrlRewrite":"dau-que"
-       }
     ]
  }
